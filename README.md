@@ -17,10 +17,13 @@ For this workshop you should bring the following things along:
 
 Please do the following things BEFORE you join the workshop:
 
+### Software installation:
+
 Go and get the latest version of:
 
-- [IntelliJ](https://www.jetbrains.com/idea/download/) (Community Edition is enough if you don't already have the Ultimate edition). Once you have install IntelliJ, open it and add the latest [Scala plugin](https://www.jetbrains.com/help/idea/managing-plugins.html) to it.
-- [JDK11](https://adoptopenjdk.net/archive.html?variant=openjdk11&jvmVariant=hotspot) (Get the Binary version)
-- [Git](https://git-scm.com/)
+- [IntelliJ](https://www.jetbrains.com/idea/download/) (Community Edition is enough if you don't already have the Ultimate edition). Once you have install IntelliJ, open it and add the latest [Scala plugin](https://www.jetbrains.com/help/idea/managing-plugins.html).
+- [JDK11](https://adoptopenjdk.net/archive.html?variant=openjdk11&jvmVariant=hotspot) (Get the Binary version for your system)
 - [VisualVM](https://visualvm.github.io/download.html)
 - maven (not really as you can just use the bundled one which comes with IntelliJ)
+
+That's it! Now you are ready and armed for the workshop!
